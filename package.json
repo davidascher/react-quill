@@ -37,7 +37,7 @@
     "LICENSE"
   ],
   "dependencies": {
-    "quill": "^1.0.2"
+    "quill": "quilljs/quill#d107d8122363e97f7792bcad040b33a1fbe10cf7"
   },
   "peerDependencies": {
     "react": ">=0.14.0"
